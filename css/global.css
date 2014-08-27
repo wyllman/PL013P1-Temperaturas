@@ -20,4 +20,11 @@ body        {
                background-color:#b0c4de;  /* blue */
                font-size:large;
             }
-   
+
+#mainDiv    {
+               color:#FF5050;
+               border-style: double;
+               border-width: 3px;
+               border-color: orange;
+               width: 600px;
+            }
